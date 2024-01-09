@@ -1,22 +1,27 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#926e86",
-    "activityBar.background": "#926e86",
+    "activityBar.activeBackground": "#20304b",
+    "activityBar.background": "#20304b",
     "activityBar.foreground": "#e7e7e7",
     "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#95bf40",
-    "activityBarBadge.foreground": "#15202b",
+    "activityBarBadge.background": "#e9d81d",
+    "activityBarBadge.foreground": "#111927",
     "commandCenter.border": "#e7e7e799",
-    "sash.hoverBorder": "#926e86",
-    "statusBar.background": "#75586b",
+    "sash.hoverBorder": "#20304b",
+    "statusBar.background": "#111927",
     "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#926e86",
-    "statusBarItem.remoteBackground": "#75586b",
+    "statusBarItem.hoverBackground": "#20304b",
+    "statusBarItem.remoteBackground": "#111927",
     "statusBarItem.remoteForeground": "#e7e7e7",
-    "titleBar.activeBackground": "#75586b",
+    "titleBar.activeBackground": "#111927",
     "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#75586b99",
+    "titleBar.inactiveBackground": "#11192799",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#75586b"
+  "peacock.color": "#111927",
+  "azureFunctions.deploySubpath": "bin/Release/net8.0/publish",
+  "azureFunctions.projectLanguage": "C#",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "publish (functions)"
 }
